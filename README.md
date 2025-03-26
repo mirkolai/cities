@@ -1,4 +1,4 @@
-## Article
+# Article
 This repository contains the source code used for the study presented in the article:
 
 **Authors:** Mirko Lai, Anna Sapienza, Salvatore Vilella, Massimo Canonico, Federica Cena, Giancarlo Ruffo
@@ -9,7 +9,7 @@ This repository contains the source code used for the study presented in the art
 
 
 
-## Data Availability
+# Data Availability
 
 The dataset used for the analysis is **not included** in this repository. However, all data sources are freely available for download from the following platforms:
 
@@ -20,11 +20,11 @@ The dataset used for the analysis is **not included** in this repository. Howeve
 
 Although the raw data is not provided here, we have included the necessary code to **automate the data retrieval process**, ensuring full reproducibility of our analysis pipeline.
 
-## Reproducibility
+# Reproducibility
 
 By running the provided scripts, users can download and preprocess the required datasets to replicate the entire analysis workflow
 
-# Script Execution Order  
+## Script Execution Order  
 
 The scripts must be executed in the following order:  
 
