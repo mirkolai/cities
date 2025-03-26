@@ -1,0 +1,462 @@
+{
+    "Addis Ababa, Ethiopia": {
+        "city_closeness": 0.693785305590837,
+        "city_accessibility": 0.41979734401404994,
+        "city_population": 2514439.879317784
+    },
+    "Adelaide, Australia": {
+        "city_closeness": 0.2547013911562732,
+        "city_accessibility": 0.4014702903716864,
+        "city_population": 623011.9176487393
+    },
+    "Amsterdam, Netherlands": {
+        "city_closeness": 0.5394386680701292,
+        "city_accessibility": 0.5036628948638756,
+        "city_population": 490084.9982632309
+    },
+    "Atlanta, Georgia, USA": {
+        "city_closeness": 0.46306335691869815,
+        "city_accessibility": 0.41776996811964257,
+        "city_population": 211539.31671764725
+    },
+    "Auckland, New Zealand": {
+        "city_closeness": 0.6159499585084277,
+        "city_accessibility": 0.4678421128823709,
+        "city_population": 786863.602142366
+    },
+    "Bangkok, Thailand": {
+        "city_closeness": 0.4811128197353449,
+        "city_accessibility": 0.38199591271743794,
+        "city_population": 5873868.99862946
+    },
+    "Barcelona, Spain": {
+        "city_closeness": 0.62723739374363,
+        "city_accessibility": 0.714988627640026,
+        "city_population": 1410695.1945795526
+    },
+    "Bari, Italy": {
+        "city_closeness": 0.5225491050594957,
+        "city_accessibility": 0.5696845691517541,
+        "city_population": 213419.01851192067
+    },
+    "Beijing, China": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.3761291163502966,
+        "city_population": 4915833.374676988
+    },
+    "Berlin, Germany": {
+        "city_closeness": 0.6475735190305403,
+        "city_accessibility": 0.5512006275947793,
+        "city_population": 2197778.0760344234
+    },
+    "Bogota, Colombia": {
+        "city_closeness": 0.3152245601497223,
+        "city_accessibility": 0.554878156072964,
+        "city_population": 8186793.091367157
+    },
+    "Bologna, Italy": {
+        "city_closeness": 0.6219042515771205,
+        "city_accessibility": 0.5929144635668032,
+        "city_population": 252104.37261033198
+    },
+    "Boston, USA": {
+        "city_closeness": 0.5546310187952378,
+        "city_accessibility": 0.5404240887855158,
+        "city_population": 480597.62147088995
+    },
+    "Brisbane, Australia": {
+        "city_closeness": 0.565790963932617,
+        "city_accessibility": 0.45088688131701354,
+        "city_population": 583366.9224773212
+    },
+    "Budapest, Hungary": {
+        "city_closeness": 0.5829080013116708,
+        "city_accessibility": 0.5187172241266932,
+        "city_population": 874100.6231140251
+    },
+    "Buenos Aires, Argentina": {
+        "city_closeness": 0.1581327989809565,
+        "city_accessibility": 0.6193855261517669,
+        "city_population": 1775776.519006445
+    },
+    "Calgary, Canada": {
+        "city_closeness": 0.49705622591045623,
+        "city_accessibility": 0.4179211067092314,
+        "city_population": 748036.3747014011
+    },
+    "Catania, Italy": {
+        "city_closeness": 0.5067805856668575,
+        "city_accessibility": 0.5412121634558322,
+        "city_population": 211713.58899587806
+    },
+    "Chicago, USA": {
+        "city_closeness": 0.6330640902391699,
+        "city_accessibility": 0.507729561949017,
+        "city_population": 1714484.2482785399
+    },
+    "Cape Town, South Africa": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.310450452381659,
+        "city_population": 2531146.586296614
+    },
+    "Los Angeles, USA": {
+        "city_closeness": 0.5576124856404351,
+        "city_accessibility": 0.44011996967825345,
+        "city_population": 2010709.149790044
+    },
+    "New York City, USA": {
+        "city_closeness": 0.5519982912560325,
+        "city_accessibility": 0.5745063180684981,
+        "city_population": 5410842.689679141
+    },
+    "Prague, Czechia": {
+        "city_closeness": 0.6305854547578325,
+        "city_accessibility": 0.5001997489639559,
+        "city_population": 881200.968053424
+    },
+    "Copenhagen, Denmark": {
+        "city_closeness": 0.5719335718824274,
+        "city_accessibility": 0.5678757284535819,
+        "city_population": 503241.1668610581
+    },
+    "Dallas, USA": {
+        "city_closeness": 0.5128613692432458,
+        "city_accessibility": 0.36406640673518564,
+        "city_population": 528645.67841401
+    },
+    "Detroit, USA": {
+        "city_closeness": 0.5652229206427025,
+        "city_accessibility": 0.4064023736441917,
+        "city_population": 327975.07145857794
+    },
+    "Dublin, Ireland": {
+        "city_closeness": 0.5871540147719587,
+        "city_accessibility": 0.582056149610011,
+        "city_population": 447126.0725114625
+    },
+    "Edinburgh, UK": {
+        "city_closeness": 0.5803898609072988,
+        "city_accessibility": 0.562564126160311,
+        "city_population": 367295.7597816625
+    },
+    "Edmonton, Canada": {
+        "city_closeness": 0.5429927639970343,
+        "city_accessibility": 0.41148401064385015,
+        "city_population": 542021.0606613298
+    },
+    "Florence, Italy": {
+        "city_closeness": 0.6475447671906276,
+        "city_accessibility": 0.6022970294350417,
+        "city_population": 275413.72523861326
+    },
+    "Fortaleza, Brazil": {
+        "city_closeness": 0.5666925797708905,
+        "city_accessibility": 0.4499992228936673,
+        "city_population": 2158358.663005043
+    },
+    "Fukuoka, Japan": {
+        "city_closeness": 0.6148767380572723,
+        "city_accessibility": 0.48375349517233046,
+        "city_population": 2560459.883483077
+    },
+    "Genoa, Italy": {
+        "city_closeness": 0.5620838915734259,
+        "city_accessibility": 0.6269274535765176,
+        "city_population": 462891.73953293386
+    },
+    "London, UK": {
+        "city_closeness": 0.6033604782482407,
+        "city_accessibility": 0.5571153893522027,
+        "city_population": 6334661.989198374
+    },
+    "Hanoi, Vietnam": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.5141030416016302,
+        "city_population": 3243511.768239251
+    },
+    "Helsinki, Finland": {
+        "city_closeness": 0.4882445617452506,
+        "city_accessibility": 0.49178785544206705,
+        "city_population": 459721.471248245
+    },
+    "Ho Chi Minh City, Vietnam": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.4731408661125171,
+        "city_population": 7142622.051684482
+    },
+    "Houston, USA": {
+        "city_closeness": 0.5355601185071641,
+        "city_accessibility": 0.3153550040307051,
+        "city_population": 982723.4495746995
+    },
+    "Istanbul, Turkey": {
+        "city_closeness": 0.6907942455065974,
+        "city_accessibility": 0.49479408777555606,
+        "city_population": 10140077.071311928
+    },
+    "Jakarta, Indonesia": {
+        "city_closeness": 0.6989310386943824,
+        "city_accessibility": 0.4207691208660509,
+        "city_population": 6558981.071331135
+    },
+    "Lima, Perù": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.522106909166711,
+        "city_population": 7485911.928196681
+    },
+    "Lisbon, Portugal": {
+        "city_closeness": 0.4429394238324122,
+        "city_accessibility": 0.6476029012702323,
+        "city_population": 449355.3701667365
+    },
+    "Madrid, Spain": {
+        "city_closeness": 0.6049012125698943,
+        "city_accessibility": 0.6333643691979639,
+        "city_population": 2627849.5047315434
+    },
+    "Manchester, UK": {
+        "city_closeness": 0.31000056077288135,
+        "city_accessibility": 0.5211686215224222,
+        "city_population": 477631.96326074295
+    },
+    "Manila, Philippines": {
+        "city_closeness": 0.6192556537162796,
+        "city_accessibility": 0.6264941820260954,
+        "city_population": 1349067.974315189
+    },
+    "Medellin, Colombia": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.5689558494014523,
+        "city_population": 2269151.9632071923
+    },
+    "Melbourne, Australia": {
+        "city_closeness": 0.5866041600109184,
+        "city_accessibility": 0.42766818498597714,
+        "city_population": 2268005.8366877474
+    },
+    "Mexico City, Mexico": {
+        "city_closeness": 0.5829091670047533,
+        "city_accessibility": 0.46768321339711544,
+        "city_population": 6039358.005699716
+    },
+    "Miami, USA": {
+        "city_closeness": 0.6426214550654933,
+        "city_accessibility": 0.43251402121521443,
+        "city_population": 305659.4784740485
+    },
+    "Milan, Italy": {
+        "city_closeness": 0.6087772716013711,
+        "city_accessibility": 0.5960211867476949,
+        "city_population": 848876.7524679189
+    },
+    "Milwaukee, USA": {
+        "city_closeness": 0.6369515582067081,
+        "city_accessibility": 0.47055032922072604,
+        "city_population": 407133.0624349457
+    },
+    "Minneapolis, USA": {
+        "city_closeness": 0.6488407928880692,
+        "city_accessibility": 0.48589715574021064,
+        "city_population": 267686.88756403764
+    },
+    "Montreal, Canada": {
+        "city_closeness": 0.607231429323979,
+        "city_accessibility": 0.5268703857943199,
+        "city_population": 1134902.4066263589
+    },
+    "Moscow, Russia": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.5445680778769785,
+        "city_population": 8869256.055658348
+    },
+    "Mumbai, India": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.4566997723847952,
+        "city_population": 5475916.337801384
+    },
+    "Munich, Germany": {
+        "city_closeness": 0.33941196385464245,
+        "city_accessibility": 0.5653328573862167,
+        "city_population": 1121267.668946194
+    },
+    "Athens, Greece": {
+        "city_closeness": 0.5816366992060117,
+        "city_accessibility": 0.6740388103719316,
+        "city_population": 598628.0448648302
+    },
+    "Nairobi, Kenya": {
+        "city_closeness": 0.596800241333894,
+        "city_accessibility": 0.46240674707219237,
+        "city_population": 3002541.2608094434
+    },
+    "Naples, Italy": {
+        "city_closeness": 0.4546707758652016,
+        "city_accessibility": 0.522838212891882,
+        "city_population": 592769.6973234285
+    },
+    "Nottingham, UK": {
+        "city_closeness": 0.5992084159779021,
+        "city_accessibility": 0.562261497101711,
+        "city_population": 265923.1877589496
+    },
+    "Osaka, Japan": {
+        "city_closeness": 0.289414620974037,
+        "city_accessibility": 0.6718613352095872,
+        "city_population": 2159340.8307701466
+    },
+    "Oslo, Norway": {
+        "city_closeness": 0.4790485340048869,
+        "city_accessibility": 0.44380144298131535,
+        "city_population": 516686.04073002096
+    },
+    "Ottawa, Canada": {
+        "city_closeness": 0.5866989748728098,
+        "city_accessibility": 0.49250501130871693,
+        "city_population": 620190.4380006628
+    },
+    "Palermo, Italy": {
+        "city_closeness": 0.5702329046173941,
+        "city_accessibility": 0.5101454942636058,
+        "city_population": 390377.280607603
+    },
+    "Paris, France": {
+        "city_closeness": 0.40903207724627666,
+        "city_accessibility": 0.7548855059861129,
+        "city_population": 1774121.7483842692
+    },
+    "Philadelphia, USA": {
+        "city_closeness": 0.5839912641279428,
+        "city_accessibility": 0.4687886406359455,
+        "city_population": 1081839.5897944886
+    },
+    "Santiago, Chile": {
+        "city_closeness": 0.584045040561708,
+        "city_accessibility": 0.4765625833609593,
+        "city_population": 5040510.446306228
+    },
+    "Rio de Janeiro, Brazil": {
+        "city_closeness": 0.7222768715714807,
+        "city_accessibility": 0.45494199526114315,
+        "city_population": 3474826.947592803
+    },
+    "Rome, Italy": {
+        "city_closeness": 0.5537556161664929,
+        "city_accessibility": 0.5257178252905045,
+        "city_population": 1721192.4250163091
+    },
+    "Rotterdam, Netherlands": {
+        "city_closeness": 0.5591425673643498,
+        "city_accessibility": 0.5032742013787536,
+        "city_population": 248243.03130475502
+    },
+    "San Antonio, USA": {
+        "city_closeness": 0.5858785954884538,
+        "city_accessibility": 0.32390613679098484,
+        "city_population": 604792.962050725
+    },
+    "San Diego, USA": {
+        "city_closeness": 0.5754681515876747,
+        "city_accessibility": 0.41678279882923813,
+        "city_population": 747736.3709457892
+    },
+    "San Francisco, USA": {
+        "city_closeness": 0.5896407237960195,
+        "city_accessibility": 0.6258691547395376,
+        "city_population": 538681.7497235503
+    },
+    "Sapporo, Japan": {
+        "city_closeness": 0.46476314633567084,
+        "city_accessibility": 0.5049108491185533,
+        "city_population": 1345079.899047651
+    },
+    "Seattle, USA": {
+        "city_closeness": 0.6210214740200465,
+        "city_accessibility": 0.5419279611230299,
+        "city_population": 494965.04626347683
+    },
+    "Seoul, South Korea": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.6361870882406447,
+        "city_population": 6652248.666434526
+    },
+    "Shanghai, China": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.402081807123016,
+        "city_population": 5104954.64448565
+    },
+    "Singapore, Singapore": {
+        "city_closeness": 0.37241335782013607,
+        "city_accessibility": 0.5382881430387467,
+        "city_population": 3145248.958553471
+    },
+    "Stockholm, Sweden": {
+        "city_closeness": 0.559811986193058,
+        "city_accessibility": 0.5192646013019705,
+        "city_population": 673378.9424364369
+    },
+    "Sydney, Australia": {
+        "city_closeness": 0.477698949026485,
+        "city_accessibility": 0.45980559026442147,
+        "city_population": 2216174.44491065
+    },
+    "São Paulo, Brazil": {
+        "city_closeness": 0.0,
+        "city_accessibility": 0.39506163290669655,
+        "city_population": 8143238.272213893
+    },
+    "Taipei, Taiwan": {
+        "city_closeness": 0.31527201324045256,
+        "city_accessibility": 0.6487024673924424,
+        "city_population": 1778919.7943086936
+    },
+    "Tallinn, Estonia": {
+        "city_closeness": 0.6642110219822359,
+        "city_accessibility": 0.47370812073982305,
+        "city_population": 259497.2594077769
+    },
+    "The Hague, Netherlands": {
+        "city_closeness": 0.5461007890826721,
+        "city_accessibility": 0.5446560449817339,
+        "city_population": 370289.6485373201
+    },
+    "Tokyo, Japan": {
+        "city_closeness": 0.3376261530270797,
+        "city_accessibility": 0.6335556746257996,
+        "city_population": 12280604.037389122
+    },
+    "Toulouse, France": {
+        "city_closeness": 0.2310174531004316,
+        "city_accessibility": 0.5714621459220773,
+        "city_population": 318860.27880409715
+    },
+    "Turin, Italy": {
+        "city_closeness": 0.6285785311273977,
+        "city_accessibility": 0.5947988072116224,
+        "city_population": 591465.0282910744
+    },
+    "Vancouver, Canada": {
+        "city_closeness": 0.6753234463845881,
+        "city_accessibility": 0.5466562614659394,
+        "city_population": 482449.9878129298
+    },
+    "Vienna, Austria": {
+        "city_closeness": 0.5937345444037428,
+        "city_accessibility": 0.5488873148946233,
+        "city_population": 1180614.7320674502
+    },
+    "Warsaw, Poland": {
+        "city_closeness": 0.6761794056058865,
+        "city_accessibility": 0.5290247023074104,
+        "city_population": 1157327.8651559185
+    },
+    "Washington, USA": {
+        "city_closeness": 0.5676657569635253,
+        "city_accessibility": 0.5416632093296908,
+        "city_population": 506390.8593198807
+    },
+    "Zurich, Switzerland": {
+        "city_closeness": 0.5403709329358531,
+        "city_accessibility": 0.621608224346252,
+        "city_population": 347358.0416818139
+    }
+}

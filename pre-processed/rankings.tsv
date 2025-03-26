@@ -1,0 +1,93 @@
+PoI-proximity   PoI_proximity_avg   PoI_accessibility   Normalized Closeness
+Paris, France	Paris, France	Paris, France	Rio de Janeiro, Brazil
+Barcelona, Spain	Barcelona, Spain	Barcelona, Spain	Jakarta, Indonesia
+Osaka, Japan	Municipality of Athens, Greece	Municipality of Athens, Greece	Addis Ababa, Ethiopia
+Genoa, Italy	Zurich, Switzerland	Osaka, Japan	Istanbul, Turkey
+Municipality of Athens, Greece	Lisbon, Portugal	Taipei, Taiwan	Vancouver, Canada
+Florence, Italy	Osaka, Japan	Lisbon, Portugal	Warsaw, Poland
+Lisbon, Portugal	Genoa, Italy	Seoul, South Korea	Tallinn, Estonia
+Copenhagen Kommune, Denmark	Milan, Italy	Tokyo, Japan	Minneapolis, Minnesota, USA
+Zurich, Switzerland	Florence, Italy	Madrid, Spain	Florence, Italy
+San Francisco, United States	Turin, Italy	Genoa, Italy	Berlin, Germany
+Buenos Aires, Argentina	Copenhagen Kommune, Denmark	Manila, Philippines	Miami, United States
+Tokyo, Japan	Buenos Aires, Argentina	San Francisco, United States	Milwaukee, USA
+Nottingham, United Kingdom	Madrid, Spain	Zurich, Switzerland	Chicago, United States
+Turin, Italy	Tokyo, Japan	Buenos Aires, Argentina	City of Prague, Czechia
+Edinburgh, United Kingdom	Bologna, Italy	Florence, Italy	Turin, Italy
+Dublin, Ireland	San Francisco, United States	Milan, Italy	Barcelona, Spain
+Madrid, Spain	Seoul, South Korea	Turin, Italy	Seattle, United States
+Seoul, South Korea	Taipei, Taiwan	Bologna, Italy	Manila, Philippines
+Milan, Italy	Dublin, Ireland	Dublin, Ireland	Auckland, New Zealand
+Bologna, Italy	Nottingham, United Kingdom	City of New York City, United States	Fukuoka, Japan
+Berlin, Germany	Edinburgh, United Kingdom	Toulouse, France	Bologna, Italy
+Munich, Germany	Munich, Germany	Bari, Italy	Milan, Italy
+Greater London, United Kingdom	Manila, Philippines	Medellin, Colombia	Montreal (region administrative), Canada
+Toulouse, France	Greater London, United Kingdom	Copenhagen Kommune, Denmark	Madrid, Spain
+Manila, Philippines	Berlin, Germany	Munich, Germany	Greater London, United Kingdom
+Taipei, Taiwan	Bari, Italy	Edinburgh, United Kingdom	Nottingham, United Kingdom
+City of New York City, United States	Moscow, Russia	Nottingham, United Kingdom	Nairobi, Kenya
+Seattle, United States	City of New York City, United States	Greater London, United Kingdom	Vienna, Austria
+Manchester, United Kingdom	Toulouse, France	Bogota, Colombia	San Francisco, United States
+Moscow, Russia	Vancouver, Canada	Berlin, Germany	Ottawa, Canada
+Medellin, Colombia	Vienna, Austria	Vienna, Austria	Melbourne, City of Melbourne, Victoria, Australia
+Vancouver, Canada	Seattle, United States	Vancouver, Canada	Dublin, Ireland
+The Hague, Netherlands	Boston, Massachusetts,USA	The Hague, Netherlands	San Antonio, Texas, USA
+Bari, Italy	Warsaw, Poland	Moscow, Russia	Región Metropolitana de Santiago, Chile
+City of Prague, Czechia	Manchester, United Kingdom	Seattle, United States	Philadelphia, United States
+Vienna, Austria	The Hague, Netherlands	Washington, D.C., United States	Mexico City, Mexico
+Warsaw, Poland	Montreal (region administrative), Canada	Catania, Italy	Budapest, Hungary
+Boston, Massachusetts,USA	City of Prague, Czechia	Boston, Massachusetts,USA	Municipality of Athens, Greece
+Budapest, Hungary	Catania, Italy	Singapore, Singapore	Edinburgh, United Kingdom
+Montreal (region administrative), Canada	Medellin, Colombia	Warsaw, Poland	San Diego, United States
+Chicago, United States	Washington, D.C., United States	Montreal (region administrative), Canada	Copenhagen Kommune, Denmark
+Washington, D.C., United States	Chicago, United States	Rome, Italy	Palermo, Italy
+Amsterdam, Noord-Holland, Netherlands	Bogota, Colombia	Naples, Italy	Washington, D.C., United States
+Helsinki, Finland	Budapest, Hungary	Lima Metropolitana, Lima, Perù	Fortaleza, Brazil
+Stockholm, Sweden	Stockholm, Sweden	Manchester, United Kingdom	Detroit, Michigan, USA
+Rotterdam, Netherlands	Rome, Italy	Stockholm, Sweden	Brisbane, Australia
+Catania, Italy	Amsterdam, Noord-Holland, Netherlands	Budapest, Hungary	Genoa, Italy
+Minneapolis, Minnesota, USA	Helsinki, Finland	Hanoi, Vietnam	Stockholm, Sweden
+Tallinn, Estonia	Tallinn, Estonia	Palermo, Italy	Rotterdam, Netherlands
+Bogota, Colombia	Minneapolis, Minnesota, USA	Chicago, United States	City of Los Angeles, United States
+Palermo, Italy	Sapporo, Japan	Sapporo, Japan	Boston, Massachusetts,USA
+Rome, Italy	Ottawa, Canada	Rotterdam, Netherlands	Rome, Italy
+Ottawa, Canada	Singapore, Singapore	Amsterdam, Noord-Holland, Netherlands	City of New York City, United States
+Naples, Italy	Rotterdam, Netherlands	City of Prague, Czechia	Edmonton, Canada
+Philadelphia, United States	Palermo, Italy	Istanbul, Turkey	Zurich, Switzerland
+Milwaukee, USA	Naples, Italy	Ottawa, Canada	The Hague, Netherlands
+Singapore, Singapore	Milwaukee, USA	Helsinki, Finland	Amsterdam, Noord-Holland, Netherlands
+Sapporo, Japan	Lima Metropolitana, Lima, Perù	Minneapolis, Minnesota, USA	Houston, United States
+Auckland, New Zealand	Philadelphia, United States	Fukuoka, Japan	Bari, Italy
+Hanoi, Vietnam	Región Metropolitana de Santiago, Chile	Región Metropolitana de Santiago, Chile	Dallas, Texas, USA
+Sydney, Australia	Istanbul, Turkey	Tallinn, Estonia	Catania, Italy
+Istanbul, Turkey	Oslo, Norway	Ho Chi Minh City, Vietnam	Calgary, Canada
+Lima Metropolitana, Lima, Perù	Auckland, New Zealand	Milwaukee, USA	Bangkok, Thailand
+Brisbane, Australia	Hanoi, Vietnam	Philadelphia, United States	Helsinki, Finland
+Detroit, Michigan, USA	Miami, United States	Auckland, New Zealand	Sydney, Australia
+Mexico City, Mexico	Sydney, Australia	Mexico City, Mexico	Oslo, Norway
+Región Metropolitana de Santiago, Chile	Fortaleza, Brazil	Nairobi, Kenya	Sapporo, Japan
+Miami, United States	Ho Chi Minh City, Vietnam	Sydney, Australia	Atlanta, Georgia, USA
+City of Los Angeles, United States	Brisbane, Australia	Mumbai, India	Naples, Italy
+Fukuoka, Japan	Edmonton, Canada	Rio de Janeiro, Brazil	Lisbon, Portugal
+Oslo, Norway	Fukuoka, Japan	Brisbane, Australia	Paris, France
+Melbourne, City of Melbourne, Victoria, Australia	Mexico City, Mexico	Fortaleza, Brazil	Singapore, Singapore
+Fortaleza, Brazil	Detroit, Michigan, USA	Oslo, Norway	Munich, Germany
+Adelaide, Australia	Melbourne, City of Melbourne, Victoria, Australia	City of Los Angeles, United States	Tokyo, Japan
+Calgary, Canada	Calgary, Canada	Miami, United States	Bogota, Colombia
+Edmonton, Canada	City of Los Angeles, United States	Melbourne, City of Melbourne, Victoria, Australia	Taipei, Taiwan
+Atlanta, Georgia, USA	Mumbai, India	Jakarta, Indonesia	Manchester, United Kingdom
+San Diego, United States	Rio de Janeiro, Brazil	Addis Ababa, Ethiopia	Osaka, Japan
+Ho Chi Minh City, Vietnam	São Paulo, Brazil	Calgary, Canada	Adelaide, Australia
+Addis Ababa, Ethiopia	Shanghai, China	Atlanta, Georgia, USA	Toulouse, France
+Shanghai, China	Adelaide, Australia	San Diego, United States	Buenos Aires, Argentina
+São Paulo, Brazil	Addis Ababa, Ethiopia	Edmonton, Canada
+Rio de Janeiro, Brazil	Nairobi, Kenya	Detroit, Michigan, USA
+Nairobi, Kenya	San Diego, United States	Shanghai, China
+Mumbai, India	Jakarta, Indonesia	Adelaide, Australia
+Beijing, China	Beijing, China	São Paulo, Brazil
+Bangkok, Thailand	Atlanta, Georgia, USA	Bangkok, Thailand
+Dallas, Texas, USA	Dallas, Texas, USA	Beijing, China
+San Antonio, Texas, USA	Bangkok, Thailand	Dallas, Texas, USA
+Jakarta, Indonesia	City of Cape Town, South Africa	San Antonio, Texas, USA
+Houston, United States	Houston, United States	Houston, United States
+City of Cape Town, South Africa	San Antonio, Texas, USA	City of Cape Town, South Africa

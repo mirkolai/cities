@@ -2,7 +2,7 @@
 from pyproj import Transformer, CRS
 import pandas as pd
 from shapely import Polygon
-
+#The nomenclature used for each city was selected based on the result provided by Nominatim from OpenStreetMap, as that text string is used to retrieve the road network of a specific city. This is why, for example, 'United States of America' sometimes appears as 'USA' and other times as 'United States'
 place_list = [
     ("Addis Ababa, Ethiopia",  1  , "ETH"),
     ("Adelaide, Australia ",  2  , "AUS"),
