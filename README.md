@@ -19,9 +19,7 @@ These sources include:
 
 The data collection procedures and analytical methods are fully described in the `Data and Methods` sections of the manuscript. The scripts used for data collection and analysis are provided in the `Reproducibility` section of this repository to ensure transparency and reproducibility. By following the procedures outlined in the `Reproducibility` section, other researchers can retrieve the data directly from the original third-party sources and replicate the study’s findings in their entirety, subject to any updates to those sources.
 
-Therefore, although the raw data is not provided here, we have included the necessary code to **automate the data retrieval process**, ensuring full reproducibility of our analysis pipeline.
-Additionally, available in the `plotting_scripts` folder, this repository includes the scripts used to generate the figures supporting the conclusions of the manuscript, along with a minimal dataset containing only the data necessary to reproduce these figures.
-
+Additionally, this repository includes, in the `plotting_scripts` folder, the scripts used to generate the figures supporting the conclusions of the manuscript, along with a dataset of processed data containing all the information necessary to reproduce these figures, as well as to calculate the descriptive statistics and rankings reported in the manuscript.
 
 # Reproducibility
 
