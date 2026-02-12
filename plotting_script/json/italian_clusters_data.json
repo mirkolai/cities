@@ -1,0 +1,122 @@
+{
+  "Bari": {
+    "pearson_correlation": 0.9666280884625131,
+    "kendall_tau_correlation": 1.0,
+    "mean_connectivity": 0.49647317282871606,
+    "std_connectivity": 0.12295771025903561,
+    "mean_accessibility": 0.5528906725759938,
+    "std_accessibility": 0.08365996417308703,
+    "median_connectivity": 0.49981301202724093,
+    "median_accessibility": 0.5715861412647262,
+    "mean_income": 24624.574283932354,
+    "std_income": 3225.1736140669195
+  },
+  "Bologna": {
+    "pearson_correlation": 0.8842192834432222,
+    "kendall_tau_correlation": 0.7333333333333333,
+    "mean_connectivity": 0.6047068734401693,
+    "std_connectivity": 0.0655107349426902,
+    "mean_accessibility": 0.5790386755806375,
+    "std_accessibility": 0.056232589773314925,
+    "median_connectivity": 0.6051393185039615,
+    "median_accessibility": 0.5506002781346381,
+    "mean_income": 28680.82442821606,
+    "std_income": 3787.5886789374713
+  },
+  "Catania": {
+    "pearson_correlation": 0.8689703741005005,
+    "kendall_tau_correlation": 0.6666666666666669,
+    "mean_connectivity": 0.4855549174454987,
+    "std_connectivity": 0.04456050004059523,
+    "mean_accessibility": 0.49281621701071116,
+    "std_accessibility": 0.0797544341366287,
+    "median_connectivity": 0.4873266178077618,
+    "median_accessibility": 0.48931132265866584,
+    "mean_income": 19500.564379197815,
+    "std_income": 4660.28101177122
+  },
+  "Genoa": {
+    "pearson_correlation": 0.9245902228806265,
+    "kendall_tau_correlation": 0.8095238095238096,
+    "mean_connectivity": 0.5611538704350231,
+    "std_connectivity": 0.08409389256436485,
+    "mean_accessibility": 0.6241043631804756,
+    "std_accessibility": 0.057593731458652854,
+    "median_connectivity": 0.5829416062363711,
+    "median_accessibility": 0.6243792360408168,
+    "mean_income": 26254.124195051703,
+    "std_income": 4982.606940430688
+  },
+  "Naples": {
+    "pearson_correlation": 0.8767412401448074,
+    "kendall_tau_correlation": 0.6,
+    "mean_connectivity": 0.4544025867402414,
+    "std_connectivity": 0.07442881104671874,
+    "mean_accessibility": 0.5052498255663215,
+    "std_accessibility": 0.08064254832054793,
+    "median_connectivity": 0.41866145255914017,
+    "median_accessibility": 0.45226408694230996,
+    "mean_income": 20736.676629879636,
+    "std_income": 4162.22133351266
+  },
+  "Palermo": {
+    "pearson_correlation": 0.7628940964635453,
+    "kendall_tau_correlation": 0.6126482213438735,
+    "mean_connectivity": 0.5351147554485657,
+    "std_connectivity": 0.08383094449947145,
+    "mean_accessibility": 0.47210073110269296,
+    "std_accessibility": 0.11883607868287721,
+    "median_connectivity": 0.5312159663508569,
+    "median_accessibility": 0.4885557480711392,
+    "mean_income": 21350.11985511198,
+    "std_income": 4017.969418837719
+  },
+  "Florence": {
+    "pearson_correlation": 0.9468572311906117,
+    "kendall_tau_correlation": 0.8666666666666666,
+    "mean_connectivity": 0.6407301253385532,
+    "std_connectivity": 0.0539505024145464,
+    "mean_accessibility": 0.5961772565950356,
+    "std_accessibility": 0.05056158784178606,
+    "median_connectivity": 0.6415596253015694,
+    "median_accessibility": 0.595766264728891,
+    "mean_income": 28885.84211586445,
+    "std_income": 3116.686039416747
+  },
+  "Turin": {
+    "pearson_correlation": 0.939019134953264,
+    "kendall_tau_correlation": 0.7142857142857143,
+    "mean_connectivity": 0.5971515964337585,
+    "std_connectivity": 0.07799086489003575,
+    "mean_accessibility": 0.5693027054487451,
+    "std_accessibility": 0.051269082689976674,
+    "median_connectivity": 0.6145457491060992,
+    "median_accessibility": 0.6034769196705365,
+    "mean_income": 29608.102778160563,
+    "std_income": 9854.72259628623
+  },
+  "Milan": {
+    "pearson_correlation": 0.9354434070228594,
+    "kendall_tau_correlation": 0.8888888888888888,
+    "mean_connectivity": 0.5924335633765135,
+    "std_connectivity": 0.06379946218731186,
+    "mean_accessibility": 0.5849803174619533,
+    "std_accessibility": 0.04468183359883715,
+    "median_connectivity": 0.561448769200153,
+    "median_accessibility": 0.5838553064466822,
+    "mean_income": 36370.68952563209,
+    "std_income": 10275.039917267284
+  },
+  "Rome": {
+    "pearson_correlation": 0.8996574297435906,
+    "kendall_tau_correlation": 0.7948717948717947,
+    "mean_connectivity": 0.5050925270549883,
+    "std_connectivity": 0.11382339213820471,
+    "mean_accessibility": 0.49503392504420923,
+    "std_accessibility": 0.07865208138786192,
+    "median_connectivity": 0.4884329543625642,
+    "median_accessibility": 0.44386903257398025,
+    "mean_income": 29985.518881753553,
+    "std_income": 7110.777077470048
+  }
+}

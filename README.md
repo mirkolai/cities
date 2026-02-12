@@ -8,21 +8,24 @@ This repository contains the source code used for the study presented in the art
 **Abstract:** This paper proposes to exploit complex network analysis to evaluate walkable accessibility to services in cities, and how this relates to connectivity provided by the urban transport system. The main research question is whether the hyper-proximity paradigm, of which the popular 15-minute city is an instance, plays a role in urban segregation, increasing the risk of ghettoization and social exclusion in cities and neighborhoods that adhere to this model. We present an analytical approach that includes the quantification of both accessibility to services and urban segregation and allows for detailed comparisons between different cities and different urban areas. The concept of hyper-proximity emphasizes the importance of having basic services and amenities within a few minutes' walk or bike ride to enhance urban livability and sustainability. By modeling cities as complex networks, we analyze various metrics to capture the relationships and accessibility patterns within urban spaces at different scales: residential addresses, network clusters (in place of administrative neighborhoods), and whole cities. Our methodology evaluates the distribution of relevant Points of Interests (PoIs) and how the urban transport network efficiently connects residential areas within a city. In particular, we suggest using closeness centrality as a metric to quantify urban segregation. We found out that accessibility to services and closeness are at interplay, and the co-existence of apparently contradictory patterns emerges world wide: in fact, we observe that areas with poor/good accessibility to services tend to exhibit poor/good urban transport connectivity at different scales, but also that the fraction of citizens who are poorly served is not equally distributed worldwide. Altogether, for Italian cities for which income data were available, we show how disparities in access to essential services can often be interpreted in terms of other socio-economic inequalities so that poorer accessibility and connectivity are likely to be manifested in lower income' neighborhoods. More interestingly, we observed some outliers suggesting that higher income neighborhoods may eventually tend towards voluntary isolation.
 
 
-
 # Data Availability
+All data used in this study were collected from publicly accessible third-party sources, accessed and collected in 2025, and the authors did not have any special access privileges for any of these datasets.
 
-The dataset used for the analysis is **not included** in this repository. However, all data sources are freely available for download from the following platforms:
+These sources include: 
+- **OpenStreetMap** – for maps and Points of Interest (PoIs) using the OpenStreetMap Application Programming Interface, accessed via standard API endpoints (https://www.openstreetmap.org; https://wiki.openstreetmap.org/wiki/API)
+- **WorldPop** – for population density data (https://www.worldpop.org/)
+- **Transitland** – for GTFS transit feeds (https://www.transit.land/). For Italian cities and Istanbul, we have manually compiled a list of the open data links providing GTFS datasets we used in the analysis.
+- for Italian cities only, official data on average resident income for the year 2022 from the Italian Ministry of Economy and Finance (https://tinyurl.com/bdcww24t).
 
-- **OSM (OpenStreetMap)** – for maps and Points of Interest (PoIs)  
-- **WorldPop** – for population density data  
-- **Transitland** – for GTFS transit feeds  
-  - For Italian cities and Istanbul, we have manually compiled a list of the open data links providing GTFS datasets we used in the analysis.  
+The data collection procedures and analytical methods are fully described in the `Data and Methods` sections of the manuscript. The scripts used for data collection and analysis are provided in the `Reproducibility` section of this repository to ensure transparency and reproducibility. By following the procedures outlined in the `Reproducibility` section, other researchers can retrieve the data directly from the original third-party sources and replicate the study’s findings in their entirety, subject to any updates to those sources.
 
-Although the raw data is not provided here, we have included the necessary code to **automate the data retrieval process**, ensuring full reproducibility of our analysis pipeline.
+Therefore, although the raw data is not provided here, we have included the necessary code to **automate the data retrieval process**, ensuring full reproducibility of our analysis pipeline.
+Additionally, available in the `plotting_scripts` folder, this repository includes the scripts used to generate the figures supporting the conclusions of the manuscript, along with a minimal dataset containing only the data necessary to reproduce these figures.
+
 
 # Reproducibility
 
-By running the provided scripts, users can download and preprocess the required datasets to replicate the entire analysis workflow
+By running the provided scripts, users can download and preprocess the required datasets to replicate the entire analysis workflow. An example of the process output that will be generated by the scripts and saved in the `output` folder for the city of Turin is included in the `output_example` folder.
 
 ## Script Execution Order  
 
@@ -105,4 +108,3 @@ Each script must be executed in sequence to ensure full reproducibility of the a
 
 
 
-If future researchers wish to build upon our results, we have included **preprocessed data** used to create scatter plots and rankings, ensuring that key insights remain accessible.

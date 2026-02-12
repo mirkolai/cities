@@ -1,0 +1,407 @@
+{
+    "Addis Ababa, Ethiopia": {
+        "connectivity_norm": 0.693785305590837,
+        "accessibility_norm": 0.41979734401404994,
+        "population": 2514439.879317784
+    },
+    "Adelaide, Australia": {
+        "connectivity_norm": 0.2547013911562732,
+        "accessibility_norm": 0.4014702903716864,
+        "population": 623011.9176487393
+    },
+    "Amsterdam, Noord-Holland, Netherlands": {
+        "connectivity_norm": 0.5394386680701292,
+        "accessibility_norm": 0.5036628948638756,
+        "population": 490084.9982632309
+    },
+    "Atlanta, USA": {
+        "connectivity_norm": 0.46306335691869815,
+        "accessibility_norm": 0.41776996811964257,
+        "population": 211539.31671764725
+    },
+    "Auckland, New Zealand": {
+        "connectivity_norm": 0.6159499585084277,
+        "accessibility_norm": 0.4678421128823709,
+        "population": 786863.602142366
+    },
+    "Bangkok, Thailand": {
+        "connectivity_norm": 0.4811128197353449,
+        "accessibility_norm": 0.38199591271743794,
+        "population": 5873868.99862946
+    },
+    "Barcelona, Spain": {
+        "connectivity_norm": 0.62723739374363,
+        "accessibility_norm": 0.714988627640026,
+        "population": 1410695.1945795526
+    },
+    "Bari, Italy": {
+        "connectivity_norm": 0.5225491050594957,
+        "accessibility_norm": 0.5696845691517541,
+        "population": 213419.01851192067
+    },
+    "Berlin, Germany": {
+        "connectivity_norm": 0.6475735190305403,
+        "accessibility_norm": 0.5512006275947793,
+        "population": 2197778.0760344234
+    },
+    "Bogota, Colombia": {
+        "connectivity_norm": 0.3152245601497223,
+        "accessibility_norm": 0.554878156072964,
+        "population": 8186793.091367157
+    },
+    "Bologna, Italy": {
+        "connectivity_norm": 0.6219042515771205,
+        "accessibility_norm": 0.5929144635668032,
+        "population": 252104.37261033198
+    },
+    "Boston,USA": {
+        "connectivity_norm": 0.5546310187952378,
+        "accessibility_norm": 0.5404240887855158,
+        "population": 480597.62147088995
+    },
+    "Brisbane, Australia": {
+        "connectivity_norm": 0.565790963932617,
+        "accessibility_norm": 0.45088688131701354,
+        "population": 583366.9224773212
+    },
+    "Budapest, Hungary": {
+        "connectivity_norm": 0.5829080013116708,
+        "accessibility_norm": 0.5187172241266932,
+        "population": 874100.6231140251
+    },
+    "Buenos Aires, Argentina": {
+        "connectivity_norm": 0.1581327989809565,
+        "accessibility_norm": 0.6193855261517669,
+        "population": 1775776.519006445
+    },
+    "Calgary, Canada": {
+        "connectivity_norm": 0.49705622591045623,
+        "accessibility_norm": 0.4179211067092314,
+        "population": 748036.3747014011
+    },
+    "Catania, Italy": {
+        "connectivity_norm": 0.5067805856668575,
+        "accessibility_norm": 0.5412121634558322,
+        "population": 211713.58899587806
+    },
+    "Chicago, USA": {
+        "connectivity_norm": 0.6330640902391699,
+        "accessibility_norm": 0.507729561949017,
+        "population": 1714484.2482785399
+    },
+    "Los Angeles, USA": {
+        "connectivity_norm": 0.5576124856404351,
+        "accessibility_norm": 0.44011996967825345,
+        "population": 2010709.149790044
+    },
+    "New York City, USA": {
+        "connectivity_norm": 0.5519982912560325,
+        "accessibility_norm": 0.5745063180684981,
+        "population": 5410842.689679141
+    },
+    "Prague, Czechia": {
+        "connectivity_norm": 0.6305854547578325,
+        "accessibility_norm": 0.5001997489639559,
+        "population": 881200.968053424
+    },
+    "Copenhagen, Denmark": {
+        "connectivity_norm": 0.5719335718824274,
+        "accessibility_norm": 0.5678757284535819,
+        "population": 503241.1668610581
+    },
+    "Dallas, USA": {
+        "connectivity_norm": 0.5128613692432458,
+        "accessibility_norm": 0.36406640673518564,
+        "population": 528645.67841401
+    },
+    "Detroit, USA": {
+        "connectivity_norm": 0.5652229206427025,
+        "accessibility_norm": 0.4064023736441917,
+        "population": 327975.07145857794
+    },
+    "Dublin, Ireland": {
+        "connectivity_norm": 0.5871540147719587,
+        "accessibility_norm": 0.582056149610011,
+        "population": 447126.0725114625
+    },
+    "Edinburgh, UK": {
+        "connectivity_norm": 0.5803898609072988,
+        "accessibility_norm": 0.562564126160311,
+        "population": 367295.7597816625
+    },
+    "Edmonton, Canada": {
+        "connectivity_norm": 0.5429927639970343,
+        "accessibility_norm": 0.41148401064385015,
+        "population": 542021.0606613298
+    },
+    "Florence, Italy": {
+        "connectivity_norm": 0.6475447671906276,
+        "accessibility_norm": 0.6022970294350417,
+        "population": 275413.72523861326
+    },
+    "Fortaleza, Brazil": {
+        "connectivity_norm": 0.5666925797708905,
+        "accessibility_norm": 0.4499992228936673,
+        "population": 2158358.663005043
+    },
+    "Fukuoka, Japan": {
+        "connectivity_norm": 0.6148767380572723,
+        "accessibility_norm": 0.48375349517233046,
+        "population": 2560459.883483077
+    },
+    "Genoa, Italy": {
+        "connectivity_norm": 0.5620838915734259,
+        "accessibility_norm": 0.6269274535765176,
+        "population": 462891.73953293386
+    },
+    "London, UK": {
+        "connectivity_norm": 0.6033604782482407,
+        "accessibility_norm": 0.5571153893522027,
+        "population": 6334661.989198374
+    },
+    "Helsinki, Finland": {
+        "connectivity_norm": 0.4882445617452506,
+        "accessibility_norm": 0.49178785544206705,
+        "population": 459721.471248245
+    },
+    "Houston, USA": {
+        "connectivity_norm": 0.5355601185071641,
+        "accessibility_norm": 0.3153550040307051,
+        "population": 982723.4495746995
+    },
+    "Istanbul, Turkey": {
+        "connectivity_norm": 0.6907942455065974,
+        "accessibility_norm": 0.49479408777555606,
+        "population": 10140077.071311928
+    },
+    "Jakarta, Indonesia": {
+        "connectivity_norm": 0.6989310386943824,
+        "accessibility_norm": 0.4207691208660509,
+        "population": 6558981.071331135
+    },
+    "Lisbon, Portugal": {
+        "connectivity_norm": 0.4429394238324122,
+        "accessibility_norm": 0.6476029012702323,
+        "population": 449355.3701667365
+    },
+    "Madrid, Spain": {
+        "connectivity_norm": 0.6049012125698943,
+        "accessibility_norm": 0.6333643691979639,
+        "population": 2627849.5047315434
+    },
+    "Manchester, UK": {
+        "connectivity_norm": 0.31000056077288135,
+        "accessibility_norm": 0.5211686215224222,
+        "population": 477631.96326074295
+    },
+    "Manila, Philippines": {
+        "connectivity_norm": 0.6192556537162796,
+        "accessibility_norm": 0.6264941820260954,
+        "population": 1349067.974315189
+    },
+    "Melbourne, Australia": {
+        "connectivity_norm": 0.5866041600109184,
+        "accessibility_norm": 0.42766818498597714,
+        "population": 2268005.8366877474
+    },
+    "Mexico City, Mexico": {
+        "connectivity_norm": 0.5829091670047533,
+        "accessibility_norm": 0.46768321339711544,
+        "population": 6039358.005699716
+    },
+    "Miami, USA": {
+        "connectivity_norm": 0.6426214550654933,
+        "accessibility_norm": 0.43251402121521443,
+        "population": 305659.4784740485
+    },
+    "Milan, Italy": {
+        "connectivity_norm": 0.6087772716013711,
+        "accessibility_norm": 0.5960211867476949,
+        "population": 848876.7524679189
+    },
+    "Milwaukee, USA": {
+        "connectivity_norm": 0.6369515582067081,
+        "accessibility_norm": 0.47055032922072604,
+        "population": 407133.0624349457
+    },
+    "Minneapolis, USA": {
+        "connectivity_norm": 0.6488407928880692,
+        "accessibility_norm": 0.48589715574021064,
+        "population": 267686.88756403764
+    },
+    "Montreal, Canada": {
+        "connectivity_norm": 0.607231429323979,
+        "accessibility_norm": 0.5268703857943199,
+        "population": 1134902.4066263589
+    },
+    "Munich, Germany": {
+        "connectivity_norm": 0.33941196385464245,
+        "accessibility_norm": 0.5653328573862167,
+        "population": 1121267.668946194
+    },
+    "Athens, Greece": {
+        "connectivity_norm": 0.5816366992060117,
+        "accessibility_norm": 0.6740388103719316,
+        "population": 598628.0448648302
+    },
+    "Nairobi, Kenya": {
+        "connectivity_norm": 0.596800241333894,
+        "accessibility_norm": 0.46240674707219237,
+        "population": 3002541.2608094434
+    },
+    "Naples, Italy": {
+        "connectivity_norm": 0.4546707758652016,
+        "accessibility_norm": 0.522838212891882,
+        "population": 592769.6973234285
+    },
+    "Nottingham, UK": {
+        "connectivity_norm": 0.5992084159779021,
+        "accessibility_norm": 0.562261497101711,
+        "population": 265923.1877589496
+    },
+    "Osaka, Japan": {
+        "connectivity_norm": 0.289414620974037,
+        "accessibility_norm": 0.6718613352095872,
+        "population": 2159340.8307701466
+    },
+    "Oslo, Norway": {
+        "connectivity_norm": 0.4790485340048869,
+        "accessibility_norm": 0.44380144298131535,
+        "population": 516686.04073002096
+    },
+    "Ottawa, Canada": {
+        "connectivity_norm": 0.5866989748728098,
+        "accessibility_norm": 0.49250501130871693,
+        "population": 620190.4380006628
+    },
+    "Palermo, Italy": {
+        "connectivity_norm": 0.5702329046173941,
+        "accessibility_norm": 0.5101454942636058,
+        "population": 390377.280607603
+    },
+    "Paris, France": {
+        "connectivity_norm": 0.40903207724627666,
+        "accessibility_norm": 0.7548855059861129,
+        "population": 1774121.7483842692
+    },
+    "Philadelphia, USA": {
+        "connectivity_norm": 0.5839912641279428,
+        "accessibility_norm": 0.4687886406359455,
+        "population": 1081839.5897944886
+    },
+    "Santiago, Chile": {
+        "connectivity_norm": 0.584045040561708,
+        "accessibility_norm": 0.4765625833609593,
+        "population": 5040510.446306228
+    },
+    "Rio de Janeiro, Brazil": {
+        "connectivity_norm": 0.7222768715714807,
+        "accessibility_norm": 0.45494199526114315,
+        "population": 3474826.947592803
+    },
+    "Rome, Italy": {
+        "connectivity_norm": 0.5537556161664929,
+        "accessibility_norm": 0.5257178252905045,
+        "population": 1721192.4250163091
+    },
+    "Rotterdam, Netherlands": {
+        "connectivity_norm": 0.5591425673643498,
+        "accessibility_norm": 0.5032742013787536,
+        "population": 248243.03130475502
+    },
+    "San Antonio, USA": {
+        "connectivity_norm": 0.5858785954884538,
+        "accessibility_norm": 0.32390613679098484,
+        "population": 604792.962050725
+    },
+    "San Diego, USA": {
+        "connectivity_norm": 0.5754681515876747,
+        "accessibility_norm": 0.41678279882923813,
+        "population": 747736.3709457892
+    },
+    "San Francisco, USA": {
+        "connectivity_norm": 0.5896407237960195,
+        "accessibility_norm": 0.6258691547395376,
+        "population": 538681.7497235503
+    },
+    "Sapporo, Japan": {
+        "connectivity_norm": 0.46476314633567084,
+        "accessibility_norm": 0.5049108491185533,
+        "population": 1345079.899047651
+    },
+    "Seattle, USA": {
+        "connectivity_norm": 0.6210214740200465,
+        "accessibility_norm": 0.5419279611230299,
+        "population": 494965.04626347683
+    },
+    "Singapore, Singapore": {
+        "connectivity_norm": 0.37241335782013607,
+        "accessibility_norm": 0.5382881430387467,
+        "population": 3145248.958553471
+    },
+    "Stockholm, Sweden": {
+        "connectivity_norm": 0.559811986193058,
+        "accessibility_norm": 0.5192646013019705,
+        "population": 673378.9424364369
+    },
+    "Sydney, Australia": {
+        "connectivity_norm": 0.477698949026485,
+        "accessibility_norm": 0.45980559026442147,
+        "population": 2216174.44491065
+    },
+    "Taipei, Taiwan": {
+        "connectivity_norm": 0.31527201324045256,
+        "accessibility_norm": 0.6487024673924424,
+        "population": 1778919.7943086936
+    },
+    "Tallinn, Estonia": {
+        "connectivity_norm": 0.6642110219822359,
+        "accessibility_norm": 0.47370812073982305,
+        "population": 259497.2594077769
+    },
+    "The Hague, Netherlands": {
+        "connectivity_norm": 0.5461007890826721,
+        "accessibility_norm": 0.5446560449817339,
+        "population": 370289.6485373201
+    },
+    "Tokyo, Japan": {
+        "connectivity_norm": 0.3376261530270797,
+        "accessibility_norm": 0.6335556746257996,
+        "population": 12280604.037389122
+    },
+    "Toulouse, France": {
+        "connectivity_norm": 0.2310174531004316,
+        "accessibility_norm": 0.5714621459220773,
+        "population": 318860.27880409715
+    },
+    "Turin, Italy": {
+        "connectivity_norm": 0.6285785311273977,
+        "accessibility_norm": 0.5947988072116224,
+        "population": 591465.0282910744
+    },
+    "Vancouver, Canada": {
+        "connectivity_norm": 0.6753234463845881,
+        "accessibility_norm": 0.5466562614659394,
+        "population": 482449.9878129298
+    },
+    "Vienna, Austria": {
+        "connectivity_norm": 0.5937345444037428,
+        "accessibility_norm": 0.5488873148946233,
+        "population": 1180614.7320674502
+    },
+    "Warsaw, Poland": {
+        "connectivity_norm": 0.6761794056058865,
+        "accessibility_norm": 0.5290247023074104,
+        "population": 1157327.8651559185
+    },
+    "Washington, USA": {
+        "connectivity_norm": 0.5676657569635253,
+        "accessibility_norm": 0.5416632093296908,
+        "population": 506390.8593198807
+    },
+    "Zurich, Switzerland": {
+        "connectivity_norm": 0.5403709329358531,
+        "accessibility_norm": 0.621608224346252,
+        "population": 347358.0416818139
+    }
+}

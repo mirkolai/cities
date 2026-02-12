@@ -1,0 +1,610 @@
+{
+    "Bari, Italy": {
+        "1.0": {
+            "population": 43284.945984544625,
+            "connectivity_norm": 0.4075244238968033,
+            "Accessibility_norm": 0.5276106486035476,
+            "income": 24161.610793881846,
+            "color": "#1f78b4"
+        },
+        "2.0": {
+            "population": 40504.00925289395,
+            "connectivity_norm": 0.3458319267345463,
+            "Accessibility_norm": 0.42758800827126053,
+            "income": 19598.704711765084,
+            "color": "#b2df8a"
+        },
+        "3.0": {
+            "population": 65067.79869181639,
+            "connectivity_norm": 0.5921016001576785,
+            "Accessibility_norm": 0.6155616339259048,
+            "income": 28100.302999231342,
+            "color": "#33a02c"
+        },
+        "4.0": {
+            "population": 64562.264582665724,
+            "connectivity_norm": 0.6404347405258362,
+            "Accessibility_norm": 0.6408023995032625,
+            "income": 26637.678630851155,
+            "color": "#fb9a99"
+        }
+    },
+    "Bologna, Italy": {
+        "1.0": {
+            "population": 87880.41234088058,
+            "connectivity_norm": 0.6586016274113768,
+            "Accessibility_norm": 0.6479287683386095,
+            "income": 35096.90771165128,
+            "color": "#1f78b4"
+        },
+        "2.0": {
+            "population": 67581.25275428494,
+            "connectivity_norm": 0.5800618997111701,
+            "Accessibility_norm": 0.5392328194384571,
+            "income": 32551.75338687433,
+            "color": "#b2df8a"
+        },
+        "3.0": {
+            "population": 38368.88892297177,
+            "connectivity_norm": 0.630216737296753,
+            "Accessibility_norm": 0.5583833786281579,
+            "income": 25500.115994627722,
+            "color": "#33a02c"
+        },
+        "4.0": {
+            "population": 14241.480085321968,
+            "connectivity_norm": 0.5422522978909529,
+            "Accessibility_norm": 0.5204179825697203,
+            "income": 26303.15068714501,
+            "color": "#fb9a99"
+        },
+        "5.0": {
+            "population": 16662.688401919128,
+            "connectivity_norm": 0.514594278568762,
+            "Accessibility_norm": 0.5428171776411183,
+            "income": 25096.972067039107,
+            "color": "#e31a1c"
+        },
+        "6.0": {
+            "population": 27369.65010495356,
+            "connectivity_norm": 0.7025143997620011,
+            "Accessibility_norm": 0.6654519268677618,
+            "income": 27536.04672195892,
+            "color": "#fdbf6f"
+        }
+    },
+    "Catania, Italy": {
+        "1.0": {
+            "population": 6736.360474586644,
+            "connectivity_norm": 0.4664882052734136,
+            "Accessibility_norm": 0.3970397024124691,
+            "income": 14299.372679379547,
+            "color": "#1f78b4"
+        },
+        "2.0": {
+            "population": 83183.38698637321,
+            "connectivity_norm": 0.5432034076453399,
+            "Accessibility_norm": 0.595602520313044,
+            "income": 26853.608703906102,
+            "color": "#b2df8a"
+        },
+        "3.0": {
+            "population": 86866.6751307982,
+            "connectivity_norm": 0.50816503034211,
+            "Accessibility_norm": 0.5426045942500729,
+            "income": 17113.534402717178,
+            "color": "#33a02c"
+        },
+        "4.0": {
+            "population": 34927.166404119984,
+            "connectivity_norm": 0.424363026521131,
+            "Accessibility_norm": 0.4360180510672587,
+            "income": 19735.741730788435,
+            "color": "#fb9a99"
+        }
+    },
+    "Genoa, Italy": {
+        "1.0": {
+            "population": 82509.85162503716,
+            "connectivity_norm": 0.43056612332019534,
+            "Accessibility_norm": 0.576871275008651,
+            "income": 23936.422542517408,
+            "color": "#1f78b4"
+        },
+        "2.0": {
+            "population": 68777.31258736472,
+            "connectivity_norm": 0.5200837998840907,
+            "Accessibility_norm": 0.6001185267324344,
+            "income": 29773.239166929747,
+            "color": "#b2df8a"
+        },
+        "3.0": {
+            "population": 88817.47242521953,
+            "connectivity_norm": 0.5986541179241228,
+            "Accessibility_norm": 0.6243792360408168,
+            "income": 22929.44040047641,
+            "color": "#33a02c"
+        },
+        "4.0": {
+            "population": 31631.97711041472,
+            "connectivity_norm": 0.48081538757129433,
+            "Accessibility_norm": 0.5399060626612893,
+            "income": 21727.32088210102,
+            "color": "#fb9a99"
+        },
+        "5.0": {
+            "population": 62034.23964815136,
+            "connectivity_norm": 0.7014345323658341,
+            "Accessibility_norm": 0.7326519414135299,
+            "income": 36142.327307908614,
+            "color": "#e31a1c"
+        },
+        "6.0": {
+            "population": 56302.2275844203,
+            "connectivity_norm": 0.6135815257432533,
+            "Accessibility_norm": 0.6624921074738906,
+            "income": 27911.026580283313,
+            "color": "#fdbf6f"
+        },
+        "7.0": {
+            "population": 72818.65855232616,
+            "connectivity_norm": 0.5829416062363711,
+            "Accessibility_norm": 0.6323113929327169,
+            "income": 21359.092485145433,
+            "color": "#ff7f00"
+        }
+    },
+    "Naples, Italy": {
+        "1.0": {
+            "population": 126179.70399943873,
+            "connectivity_norm": 0.388169891425306,
+            "Accessibility_norm": 0.4278548274630435,
+            "income": 24874.941971934542,
+            "color": "#1f78b4"
+        },
+        "2.0": {
+            "population": 86121.20348392609,
+            "connectivity_norm": 0.41866145255914017,
+            "Accessibility_norm": 0.45226408694230996,
+            "income": 16415.469209491486,
+            "color": "#b2df8a"
+        },
+        "3.0": {
+            "population": 118708.13064986648,
+            "connectivity_norm": 0.3786745055028385,
+            "Accessibility_norm": 0.4502774613462543,
+            "income": 18746.65705988714,
+            "color": "#33a02c"
+        },
+        "4.0": {
+            "population": 214576.9844062582,
+            "connectivity_norm": 0.5272799053755864,
+            "Accessibility_norm": 0.6398714706630713,
+            "income": 26540.216892027605,
+            "color": "#fb9a99"
+        },
+        "5.0": {
+            "population": 47183.674783938994,
+            "connectivity_norm": 0.5592271788383362,
+            "Accessibility_norm": 0.5559812814169285,
+            "income": 17106.09801605739,
+            "color": "#e31a1c"
+        }
+    },
+    "Palermo, Italy": {
+        "1.0": {
+            "population": 49052.524289724315,
+            "connectivity_norm": 0.6548157669806575,
+            "Accessibility_norm": 0.5736621178552765,
+            "income": 32880.23525350307,
+            "color": "#1f78b4"
+        },
+        "2.0": {
+            "population": 12862.957515421758,
+            "connectivity_norm": 0.45443187407155755,
+            "Accessibility_norm": 0.2601680011965161,
+            "income": 19064.242768914904,
+            "color": "#b2df8a"
+        },
+        "3.0": {
+            "population": 16483.974273037005,
+            "connectivity_norm": 0.542402516407809,
+            "Accessibility_norm": 0.5424455412529698,
+            "income": 17660.047556041198,
+            "color": "#33a02c"
+        },
+        "4.0": {
+            "population": 9986.08590202011,
+            "connectivity_norm": 0.4860097122162147,
+            "Accessibility_norm": 0.4885557480711392,
+            "income": 20932.192642598504,
+            "color": "#fb9a99"
+        },
+        "5.0": {
+            "population": 9638.748369892224,
+            "connectivity_norm": 0.5549437594509385,
+            "Accessibility_norm": 0.46217343752957996,
+            "income": 23305.513398552892,
+            "color": "#e31a1c"
+        },
+        "6.0": {
+            "population": 35962.43652493141,
+            "connectivity_norm": 0.5968296753865041,
+            "Accessibility_norm": 0.618665359682276,
+            "income": 20792.80032839793,
+            "color": "#fdbf6f"
+        },
+        "7.0": {
+            "population": 12637.609743171144,
+            "connectivity_norm": 0.6306843037984787,
+            "Accessibility_norm": 0.6696830618319216,
+            "income": 23119.420259732866,
+            "color": "#ff7f00"
+        },
+        "8.0": {
+            "population": 19525.2570727473,
+            "connectivity_norm": 0.5948523969469183,
+            "Accessibility_norm": 0.610565988260167,
+            "income": 21640.29819917489,
+            "color": "#cab2d6"
+        },
+        "9.0": {
+            "population": 27188.381906284096,
+            "connectivity_norm": 0.6031253913400372,
+            "Accessibility_norm": 0.593496850839272,
+            "income": 18301.60340754753,
+            "color": "#6a3d9a"
+        },
+        "10.0": {
+            "population": 30986.55096691218,
+            "connectivity_norm": 0.6129625148352793,
+            "Accessibility_norm": 0.5673025361730566,
+            "income": 23028.835314275246,
+            "color": "#ffff99"
+        },
+        "11.0": {
+            "population": 15046.609725318809,
+            "connectivity_norm": 0.588644593738914,
+            "Accessibility_norm": 0.5465004810915296,
+            "income": 20258.463915039403,
+            "color": "#b15928"
+        },
+        "12.0": {
+            "population": 13940.503885148762,
+            "connectivity_norm": 0.5593328585917684,
+            "Accessibility_norm": 0.49476038906943254,
+            "income": 19638.418603269703,
+            "color": "#a6cee3"
+        },
+        "13.0": {
+            "population": 6318.506621003151,
+            "connectivity_norm": 0.4894505563285308,
+            "Accessibility_norm": 0.3578905578592419,
+            "income": 21832.9419299749,
+            "color": "#1f78b4"
+        },
+        "14.0": {
+            "population": 754.1862479315864,
+            "connectivity_norm": 0.458994435719221,
+            "Accessibility_norm": 0.38196846750283153,
+            "income": 20236.550898902642,
+            "color": "#b2df8a"
+        },
+        "15.0": {
+            "population": 4063.88098463118,
+            "connectivity_norm": 0.5089865450386085,
+            "Accessibility_norm": 0.6068797991791105,
+            "income": 20236.311188899464,
+            "color": "#33a02c"
+        },
+        "16.0": {
+            "population": 30689.58925823608,
+            "connectivity_norm": 0.7375265986741487,
+            "Accessibility_norm": 0.5292042324100419,
+            "income": 30746.84677274023,
+            "color": "#fb9a99"
+        },
+        "17.0": {
+            "population": 21655.396369668095,
+            "connectivity_norm": 0.42324049719551965,
+            "Accessibility_norm": 0.3877336867222574,
+            "income": 25596.05642787118,
+            "color": "#e31a1c"
+        },
+        "18.0": {
+            "population": 17881.97674394577,
+            "connectivity_norm": 0.5034170751676718,
+            "Accessibility_norm": 0.4482916652991335,
+            "income": 24536.09040080036,
+            "color": "#fdbf6f"
+        },
+        "19.0": {
+            "population": 8054.061876706779,
+            "connectivity_norm": 0.3542517736205251,
+            "Accessibility_norm": 0.2605205299616765,
+            "income": 16941.264560313582,
+            "color": "#ff7f00"
+        },
+        "20.0": {
+            "population": 7434.2373083434995,
+            "connectivity_norm": 0.46099462928672486,
+            "Accessibility_norm": 0.2854016088756938,
+            "income": 17629.13999173205,
+            "color": "#cab2d6"
+        },
+        "21.0": {
+            "population": 21852.1827874112,
+            "connectivity_norm": 0.48037144413844995,
+            "Accessibility_norm": 0.44697311254807764,
+            "income": 17283.603670349905,
+            "color": "#6a3d9a"
+        },
+        "23.0": {
+            "population": 12306.950111808379,
+            "connectivity_norm": 0.5312159663508569,
+            "Accessibility_norm": 0.35127190410150944,
+            "income": 17861.52565594841,
+            "color": "#b15928"
+        },
+        "24.0": {
+            "population": 4890.258278920252,
+            "connectivity_norm": 0.48015449003167243,
+            "Accessibility_norm": 0.3742017380492285,
+            "income": 17530.353522994817,
+            "color": "#a6cee3"
+        }
+    },
+    "Florence, Italy": {
+        "1.0": {
+            "population": 75400.75259889814,
+            "connectivity_norm": 0.6766092994398235,
+            "Accessibility_norm": 0.63396883211817,
+            "income": 31961.745853267726,
+            "color": "#1f78b4"
+        },
+        "2.0": {
+            "population": 30366.983875128288,
+            "connectivity_norm": 0.5896410661270507,
+            "Accessibility_norm": 0.5764694879257874,
+            "income": 30233.418214049463,
+            "color": "#b2df8a"
+        },
+        "3.0": {
+            "population": 42066.126977924665,
+            "connectivity_norm": 0.670584415237844,
+            "Accessibility_norm": 0.6150630415319948,
+            "income": 29684.456008749145,
+            "color": "#33a02c"
+        },
+        "4.0": {
+            "population": 44313.40554360404,
+            "connectivity_norm": 0.7242794792309166,
+            "Accessibility_norm": 0.6757346846358291,
+            "income": 32100.449757690778,
+            "color": "#fb9a99"
+        },
+        "5.0": {
+            "population": 45153.00328651171,
+            "connectivity_norm": 0.5707316566303894,
+            "Accessibility_norm": 0.5330704389519584,
+            "income": 25139.08162410236,
+            "color": "#e31a1c"
+        },
+        "6.0": {
+            "population": 38113.45295654643,
+            "connectivity_norm": 0.6125348353652948,
+            "Accessibility_norm": 0.5427570544064739,
+            "income": 24195.901237327223,
+            "color": "#fdbf6f"
+        }
+    },
+    "Turin, Italy": {
+        "1.0": {
+            "population": 197127.78711271592,
+            "connectivity_norm": 0.6302576341207474,
+            "Accessibility_norm": 0.6058533877877315,
+            "income": 29800.730113779617,
+            "color": "#1f78b4"
+        },
+        "2.0": {
+            "population": 103480.36955670039,
+            "connectivity_norm": 0.6145457491060992,
+            "Accessibility_norm": 0.6081196474969237,
+            "income": 21315.41715715272,
+            "color": "#b2df8a"
+        },
+        "3.0": {
+            "population": 111793.98830425864,
+            "connectivity_norm": 0.6401534422676094,
+            "Accessibility_norm": 0.6034769196705365,
+            "income": 28075.816922080277,
+            "color": "#33a02c"
+        },
+        "4.0": {
+            "population": 71390.8032707262,
+            "connectivity_norm": 0.5928508846912982,
+            "Accessibility_norm": 0.5397236574371771,
+            "income": 20837.71717925343,
+            "color": "#fb9a99"
+        },
+        "5.0": {
+            "population": 75286.18007501,
+            "connectivity_norm": 0.7192553754630081,
+            "Accessibility_norm": 0.6276681069452877,
+            "income": 30965.922560564097,
+            "color": "#e31a1c"
+        },
+        "6.0": {
+            "population": 16340.811942416407,
+            "connectivity_norm": 0.45926903020901616,
+            "Accessibility_norm": 0.48370293091112027,
+            "income": 24262.835408982857,
+            "color": "#fdbf6f"
+        },
+        "7.0": {
+            "population": 16045.088029246948,
+            "connectivity_norm": 0.5237290591785304,
+            "Accessibility_norm": 0.5165742878924392,
+            "income": 51998.28010531095,
+            "color": "#ff7f00"
+        }
+    },
+    "Milan, Italy": {
+        "1.0": {
+            "population": 150483.30652392568,
+            "connectivity_norm": 0.6870114408587842,
+            "Accessibility_norm": 0.6483719625659162,
+            "income": 60319.80986206978,
+            "color": "#1f78b4"
+        },
+        "2.0": {
+            "population": 157255.80409104325,
+            "connectivity_norm": 0.6816423752107544,
+            "Accessibility_norm": 0.6465233192303869,
+            "income": 46209.545065136845,
+            "color": "#b2df8a"
+        },
+        "3.0": {
+            "population": 106973.98841069193,
+            "connectivity_norm": 0.5355054413167288,
+            "Accessibility_norm": 0.5197101397456529,
+            "income": 30292.39242693352,
+            "color": "#33a02c"
+        },
+        "4.0": {
+            "population": 106695.99385772833,
+            "connectivity_norm": 0.579915801607679,
+            "Accessibility_norm": 0.60259879560857,
+            "income": 37401.446937359426,
+            "color": "#fb9a99"
+        },
+        "5.0": {
+            "population": 74578.41287979491,
+            "connectivity_norm": 0.5393559600485034,
+            "Accessibility_norm": 0.5575526727458563,
+            "income": 29720.001748633855,
+            "color": "#e31a1c"
+        },
+        "6.0": {
+            "population": 65289.727975856615,
+            "connectivity_norm": 0.5237172447214282,
+            "Accessibility_norm": 0.5363796189854075,
+            "income": 29709.39519787213,
+            "color": "#fdbf6f"
+        },
+        "7.0": {
+            "population": 55489.881118513644,
+            "connectivity_norm": 0.5520929202560979,
+            "Accessibility_norm": 0.5497305095975109,
+            "income": 27570.93652361347,
+            "color": "#ff7f00"
+        },
+        "8.0": {
+            "population": 71198.83670457457,
+            "connectivity_norm": 0.6712121171684924,
+            "Accessibility_norm": 0.6201005322315979,
+            "income": 38243.16971685064,
+            "color": "#cab2d6"
+        },
+        "9.0": {
+            "population": 60910.80090579007,
+            "connectivity_norm": 0.561448769200153,
+            "Accessibility_norm": 0.5838553064466822,
+            "income": 27869.50825221912,
+            "color": "#6a3d9a"
+        }
+    },
+    "Rome, Italy": {
+        "1.0": {
+            "population": 119901.86789170734,
+            "connectivity_norm": 0.4884329543625642,
+            "Accessibility_norm": 0.39527468565919144,
+            "income": 37118.97549572664,
+            "color": "#1f78b4"
+        },
+        "2.0": {
+            "population": 136353.19758017597,
+            "connectivity_norm": 0.4566167069142095,
+            "Accessibility_norm": 0.44055213479663435,
+            "income": 22663.791762105648,
+            "color": "#b2df8a"
+        },
+        "3.0": {
+            "population": 264083.90580395143,
+            "connectivity_norm": 0.6375381871573919,
+            "Accessibility_norm": 0.6005367061541023,
+            "income": 50255.193187756,
+            "color": "#33a02c"
+        },
+        "4.0": {
+            "population": 119781.96977753131,
+            "connectivity_norm": 0.3347391255608782,
+            "Accessibility_norm": 0.4286411406360326,
+            "income": 24802.104313469958,
+            "color": "#fb9a99"
+        },
+        "5.0": {
+            "population": 278245.56883271993,
+            "connectivity_norm": 0.6138363369534289,
+            "Accessibility_norm": 0.5586085527381812,
+            "income": 22974.356907998983,
+            "color": "#e31a1c"
+        },
+        "6.0": {
+            "population": 39960.55119879536,
+            "connectivity_norm": 0.46115352468473103,
+            "Accessibility_norm": 0.44320303296006613,
+            "income": 25809.700495123125,
+            "color": "#fdbf6f"
+        },
+        "7.0": {
+            "population": 149169.99704390607,
+            "connectivity_norm": 0.46284467332264,
+            "Accessibility_norm": 0.44386903257398025,
+            "income": 28998.729212710445,
+            "color": "#ff7f00"
+        },
+        "8.0": {
+            "population": 212673.02661897242,
+            "connectivity_norm": 0.695590411796565,
+            "Accessibility_norm": 0.6186429116068443,
+            "income": 34087.62833977527,
+            "color": "#cab2d6"
+        },
+        "9.0": {
+            "population": 141616.98020265612,
+            "connectivity_norm": 0.5200247102746707,
+            "Accessibility_norm": 0.5245237410615241,
+            "income": 29296.04466915382,
+            "color": "#6a3d9a"
+        },
+        "10.0": {
+            "population": 8844.04353337797,
+            "connectivity_norm": 0.31571038673705243,
+            "Accessibility_norm": 0.4173231393579289,
+            "income": 27667.56852125942,
+            "color": "#ffff99"
+        },
+        "11.0": {
+            "population": 146093.8544144654,
+            "connectivity_norm": 0.5568490084395143,
+            "Accessibility_norm": 0.5533331520093797,
+            "income": 32039.207684916604,
+            "color": "#b15928"
+        },
+        "12.0": {
+            "population": 25380.3682158195,
+            "connectivity_norm": 0.3919397530096776,
+            "Accessibility_norm": 0.4137858436908846,
+            "income": 28352.12244875224,
+            "color": "#a6cee3"
+        },
+        "13.0": {
+            "population": 79087.09390223082,
+            "connectivity_norm": 0.630927072501525,
+            "Accessibility_norm": 0.5971469523299697,
+            "income": 25746.32242404804,
+            "color": "#1f78b4"
+        }
+    }
+}

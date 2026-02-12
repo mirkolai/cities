@@ -1,0 +1,50 @@
+categories = {
+    'mobility': {
+        'tags': {
+            'public_transport': ['station', 'stop_position', 'platform', 
+                                 'stop_area', 'stop_area_group'],
+            'highway': ['bus_stop'],
+            'amenity': ['bus_station']
+        }
+    },
+    'active_living': {
+        'tags': {
+            'leisure': ['fitness_centre', 'sports_centre', 'park', 'pitch', 
+                        'playground', 'swimming_pool', 'garden', 'golf_course', 
+                        'ice_rink', 'dog_park', 'nature_reserve', 'marina', 
+                        'fitness_station'],
+            'landuse': ['recreation_ground', 'skatepark', 'skate_park'],
+            'sport': ['skateboard'],
+            'amenity': ['bicycle_parking']
+        }
+    },
+    'entertainment': {
+        'tags': {
+            'amenity': ['pub', 'bar', 'theatre', 'cinema', 'nightclub', 
+                        'events_venue']
+        }
+    },
+    'food': {
+        'tags': {
+            'amenity': ['restaurant', 'cafe', 'food_court', 'marketplace', 
+                        'community_centre']
+        }
+    },
+    'community': {
+        'tags': {
+            'amenity': ['library', 'social_facility', 'social_centre', 
+                        'townhall']
+        }
+    },
+    'education': {
+        'tags': {
+            'amenity': ['school', 'childcare', 'child_care', 'kindergarten', 
+                        'university', 'college']
+        }
+    },
+    'health_and_wellbeing': {
+        'tags': {
+            'amenity': ['pharmacy', 'dentist', 'clinic', 'hospital', 'doctors']
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "Bari, Italy": {
+        "population": 213419.01851192067,
+        "connectivity_norm": 0.5225491050594957,
+        "Accessibility_norm": 0.5696845691517541,
+        "income": 25879.976003739557
+    },
+    "Bologna, Italy": {
+        "population": 252104.37261033198,
+        "connectivity_norm": 0.6219042515771205,
+        "Accessibility_norm": 0.5929144635668032,
+        "income": 30937.364008885153
+    },
+    "Catania, Italy": {
+        "population": 211713.58899587806,
+        "connectivity_norm": 0.5067805856668575,
+        "Accessibility_norm": 0.5412121634558322,
+        "income": 21584.43072495616
+    },
+    "Genoa, Italy": {
+        "population": 462891.73953293386,
+        "connectivity_norm": 0.5620838915734259,
+        "Accessibility_norm": 0.6269274535765176,
+        "income": 26525.102978056242
+    },
+    "Naples, Italy": {
+        "population": 592769.6973234285,
+        "connectivity_norm": 0.4546707758652016,
+        "Accessibility_norm": 0.522838212891882,
+        "income": 24459.004701379657
+    },
+    "Palermo, Italy": {
+        "population": 390377.280607603,
+        "connectivity_norm": 0.5702329046173941,
+        "Accessibility_norm": 0.5101454942636058,
+        "income": 24476.310754069917
+    },
+    "Florence, Italy": {
+        "population": 275413.72523861326,
+        "connectivity_norm": 0.6475447671906276,
+        "Accessibility_norm": 0.6022970294350417,
+        "income": 29709.059955817374
+    },
+    "Turin, Italy": {
+        "population": 591465.0282910744,
+        "connectivity_norm": 0.6285785311273977,
+        "Accessibility_norm": 0.5947988072116224,
+        "income": 27498.312353178873
+    },
+    "Milan, Italy": {
+        "population": 848876.7524679189,
+        "connectivity_norm": 0.6087772716013711,
+        "Accessibility_norm": 0.5960211867476949,
+        "income": 40555.78012893219
+    },
+    "Rome, Italy": {
+        "population": 1721192.4250163091,
+        "connectivity_norm": 0.5537556161664929,
+        "Accessibility_norm": 0.5257178252905045,
+        "income": 32746.726454050742
+    }
+}
