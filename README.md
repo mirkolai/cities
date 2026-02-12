@@ -46,8 +46,8 @@ This script requires the most computational resources in terms of execution time
 - `data/worldpop/{country}` – A raster file from WorldPop with population estimates (downloaded once per country and used for all cities in that nation).  
 - `output/{place_name}.graphml.gz` – The city's road network extracted from OpenStreetMap (OSM).  
 - `output/{place_name} extended.graphml.gz` – An expanded version of the city's bounding box, covering the maximum travel distance reachable within the set time and speed constraints.  
-- `output/{place_name}.csv.gz` – A file containing Points of Interest (PoIs) retrieved from OSM.  
-
+- `output/{place_name} PoI.feather.zstd` – A file containing Points of Interest (PoIs) retrieved from OSM.  
+- `output/{place_name} PoI accessibility.json.gz` – dictionary containing for each intersection the computes accessibility metrics.
 ## 2. `_recover_GTFS_feeds.py`  
 
 Retrieves GTFS feeds using the Transit.land API.  
