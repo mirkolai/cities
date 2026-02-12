@@ -61,5 +61,4 @@ python3 italian_map/italy.py
 ## Notes
 
 - Scripts use different JSON files and slightly different field names (e.g. `connectivity_norm` vs `city_connectivity`); check the top of each script for the expected input keys.
-- The repository contains additional experimental scripts under folders prefixed with `_` (ignored here) — those are used for tentative work and are not documented in this README per your request.
 - Required Python libraries can be installed from `requirements.txt`.
